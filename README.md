@@ -19,6 +19,13 @@ This port does not aspire to be a one-to-one copy from the original code, but ra
 
 Still, our goal is to use the original, unchanged regex yaml files for user agent detection provided by the upstream version, in order to mutually benefit from updates and pull request to both the original and the ported versions.
 
+## License
+
+This project is based on the original [Podigee/device_detector](https://github.com/podigee/device_detector)
+licensed under the **GNU Lesser General Public License v3.0 (LGPL-3.0)**.
+
+Modifications made in this fork remain under the same LGPL-3.0 license.
+
 ## Installation
 
 Add this line to your application's Gemfile:
