@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.3-custom-1]
+
+- 애플 기기 목록 추가([#1](https://github.com/langdy/device_detector/pull/1))
+
 ## [1.1.3]
 
 - Updated detection rules from upstream on 2024-06-25 ([#124](https://github.com/podigee/device_detector/pull/124))
