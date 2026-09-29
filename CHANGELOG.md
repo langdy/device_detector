@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.3-custom-3]
+
+- 누락 기기 목록 추가([#4](https://github.com/langdy/device_detector/pull/4))
+
 ## [1.1.3-custom-2]
 
 - 애플 기기 목록 추가([#2](https://github.com/langdy/device_detector/pull/2))
